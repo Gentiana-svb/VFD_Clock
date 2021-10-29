@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT234XD-R
+D USB/UART IC, w/USB Charge Detection FTDI Chip FT234XD-R, USB Controller, 3MBd, USB 1.1, USB 2.0, 5 V, 12-Pin DFN
+K
+F https://componentsearchengine.com/Datasheets/2/FT234XD-R.pdf
+$ENDCMP
+#
+$CMP 10103593-0001LF
+D USB Connectors 5P Quick Connect Micro USB TypeB RCPT
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/FRCI/FRCIS73238/FRCIS73238-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+$ENDCMP
+#
+$CMP LM2901Q4T
+D Analog Comparators 1.1mA Low Power Quad 25nA 250mV
+K
+F https://www.st.com/resource/en/datasheet/lm2901.pdf
+$ENDCMP
+#
+$CMP TSR_2-0512
+D TRACOPOWER Switching Regulator, 3  5.5V dc Input, 1.2V dc Output, Maximum of 2A
+K
+F https://componentsearchengine.com/Datasheets/1/TSR 2-0512.pdf
+$ENDCMP
+#
+$CMP ULR2G8R2MNL1GS
+D Nichicon 8.2uF 400 V Aluminium Electrolytic Capacitor SMD, LR Series 3000h 10 (Dia.) x 10mm
+K
+F https://componentsearchengine.com/Datasheets/1/ULR2G8R2MNL1GS.pdf
+$ENDCMP
+#
+#End Doc Library
